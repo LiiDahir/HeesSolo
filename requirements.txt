@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yt-dlp
+spleeter
+numpy
+tensorflow==2.12.0
+pydub
+ffmpeg-python
+python-multipart
